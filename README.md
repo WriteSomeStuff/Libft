@@ -6,7 +6,7 @@ The goal is to create our own standard library so I can later use it for other p
 
 ```bash
 git clone https://github.com/WriteSomeStuff/Libft.git
-cd libft
+cd Libft/libft
 make
 ```
 You should see a libft.a file and some object files (.o).
