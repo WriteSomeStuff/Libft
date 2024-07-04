@@ -1,6 +1,6 @@
 # Libft - @Codam
 My implementation of some of the Standard C Library functions including some additional ones.
-The goal is to create our own standard library so I can later use it for other projects at 42.
+The goal was to create our own standard library so I can use it for other projects at Codam.
 
 ## How does it work?
 
